@@ -7,7 +7,7 @@ Repository for activities associated with ESIP FUNding Friday award for developm
 ## Resources
 - Related ESIP Summer meeting session [here](https://2020esipsummermeeting.sched.com/event/cIvU/supporting-the-earth-science-community-in-repository-discovery)
 - Funding Friday award poster [here](https://github.com/DataONEorg/RepositoryFinder/blob/main/FUNdingFridayPoster.pdf)
-- Proposed activities / Statement of work here:
+- Proposed activities / Statement of work [here](https://github.com/DataONEorg/RepositoryFinder/blob/main/SOW.md)
 
 ## Collaborators 
 Amber Budden (DataONE/NCEAS), Erin McLean (Arctic Data Center), Daniella  Lowenberg (CDL), Robert Crystal-Ornelas (ESS-DIVE) Kristin Vanderbilt (EDI), Shelley Stall (AGU), Denise Hill (GSA)
