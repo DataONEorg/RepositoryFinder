@@ -1,4 +1,4 @@
-# Details of repository finder website and prinatble graphics
+# Details of repository finder website and printable graphics
 
 **Font used in logo**
 
